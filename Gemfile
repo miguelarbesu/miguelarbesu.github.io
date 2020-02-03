@@ -16,6 +16,9 @@ gem "jekyll", "~> 3.8.5"
 # This is the new Jekyll theme: https://github.com/mmistakes/minimal-mistakes
 gem "minimal-mistakes-jekyll"
 
+# This makes the theme Gem GH-compatible 
+gem "github-pages", group: :jekyll_plugins
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
