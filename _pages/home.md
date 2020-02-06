@@ -1,19 +1,20 @@
 ---
-title: "Miguel Arbesú"
+#title: "Miguel Arbesú, PhD"
 layout: splash
 permalink: /
 date: 2020-02-06T12:00:00-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.33"
+  overlay_filter: "0.5"
   overlay_image: assets/images/FUS-droplets_full.jpg
   # actions:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Human protein FUS forming liquid droplets"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Structural biology of proteins using (mostly) NMR<br> 
+Data analysis with Python"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: "This website is a portfolio of my research and other side projects and interests."
 # feature_row:
 #   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 #     alt: "placeholder image 1"
