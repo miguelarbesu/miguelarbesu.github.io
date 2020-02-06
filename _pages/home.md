@@ -1,8 +1,8 @@
 ---
-title: "Miguel Arbesú's personal page"
+title: "Miguel Arbesú"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2020-02-06T12:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.33"
@@ -58,10 +58,10 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+<!-- {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="center" %} -->
