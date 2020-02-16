@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Miguel Arbesú, PhD"
 title_separator          : "|"
-subtitle                 : "A chemist doing structural biology"
+subtitle                 : "A chemist working on structural biology"
 name                     : "Miguel Arbesú Andrés"
 description              : "This personal website is a portfolio of my research, side projects, and other interests"
 url                      : "https://miguelarbesu.github.io"
-baseurl                  : "/"
+baseurl                  : ""
 repository               : "miguelarbesu/miguelarbesu.github.io"
 teaser                   : "/assets/images/FUS-droplets_500x300.jpg"
 logo                     : "/assets/icons/methane.png"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Miguel Arbesú Andrés"
-  avatar           : "/assets/images/arbesu_avatar.png"
+  avatar           : "/assets/images/arbesu_avatar.jpg"
   bio              : "I am chemist working on structural biology."
   location         : "Berlin"
   email            : miguelarbesu@gmail.com
@@ -116,8 +116,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:miguelarbesu@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -173,8 +173,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
