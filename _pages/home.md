@@ -14,7 +14,7 @@ header:
 excerpt: "Structural biology of proteins using (mostly) NMR<br> 
 Data analysis with Python"
 intro: 
-  - excerpt: "This website is a portfolio of my research and other side projects and interests."
+  - excerpt: "This personal website is a portfolio of my research, side projects, and other interests."
 # feature_row:
 #   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 #     alt: "placeholder image 1"

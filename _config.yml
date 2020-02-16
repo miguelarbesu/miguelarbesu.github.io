@@ -20,7 +20,7 @@ title                    : "Miguel Arbesú, PhD"
 title_separator          : "|"
 subtitle                 : "A chemist doing structural biology"
 name                     : "Miguel Arbesú Andrés"
-description              : "This personal website is a portfolio of my research and other projects and interests"
+description              : "This personal website is a portfolio of my research, side projects, and other interests"
 url                      : "https://miguelarbesu.github.io"
 baseurl                  : "/"
 repository               : "miguelarbesu/miguelarbesu.github.io"
@@ -99,9 +99,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-158282187-1 
     anonymize_ip         : # true, false (default)
 
 
@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am chemist working on structural biology."
   location         : "Berlin"
-  email            :
+  email            : miguelarbesu@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
