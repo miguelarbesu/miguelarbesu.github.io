@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Blog"
     url: /blog-year-archive/
-  - title: "Terms & conditions"
-    url: /about/
+  - title: "License & Privacy"
+    url: /license-privacy/
   # - title: "Sitemap"
   #   url: /sitemap/
