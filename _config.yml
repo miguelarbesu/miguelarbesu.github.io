@@ -77,14 +77,14 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 1nfd4XwZ2EamOHhIRIslOYjVdm6PJYTXN9E1ktjDO1U
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : miguelarbesu
+  username               : &twitter "miguelarbesu"
 facebook:
   username               :
   app_id                 :
@@ -99,16 +99,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : UA-158282187-1 
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true
 
 
 # Site Author
 author:
   name             : "Miguel Arbesú Andrés"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/arbesu_avatar.png"
   bio              : "I am chemist working on structural biology."
   location         : "Berlin"
   email            : miguelarbesu@gmail.com
