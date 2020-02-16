@@ -3,6 +3,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog-year-archive/
+  - title: "Terms & conditions"
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
