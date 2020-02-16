@@ -1,5 +1,6 @@
 ---
 title: "License & Privacy policy"
+date: 2020-02-16 12:00:00 +0100
 permalink: /license-privacy/
 layout: posts
 author_profile: true

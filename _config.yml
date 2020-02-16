@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Miguel Arbesú, PhD"
 title_separator          : "|"
-subtitle                 : "A chemist working on structural biology"
+subtitle                 : "Structural biology, data analysis, and all in between"
 name                     : "Miguel Arbesú Andrés"
 description              : "This personal website is a portfolio of my research, side projects, and other interests"
 url                      : "https://miguelarbesu.github.io"
@@ -109,16 +109,16 @@ analytics:
 author:
   name             : "Miguel Arbesú Andrés"
   avatar           : "/assets/images/arbesu_avatar.jpg"
-  bio              : "I am chemist working on structural biology."
-  location         : "Berlin"
-  email            : miguelarbesu@gmail.com
+  bio              : "A chemist working on structural biology. 
+                      I enjoy intrinsically disordered proteins, 
+                      NMR and Python.<br>
+                      Also a karateka."
+  location         : "Berlin, Germany"
+  # email            : miguelarbesu@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:miguelarbesu@gmail.com
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/miguelarbesu"
