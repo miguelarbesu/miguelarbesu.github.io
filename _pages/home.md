@@ -11,8 +11,13 @@ header:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Human protein FUS forming liquid droplets"
-excerpt: "Structural biology of proteins using (mostly) NMR<br> 
-Data analysis with Python"
+excerpt: "<br>
+          Structural biology
+          <br>
+          Nuclear Magnetic Resonance
+          <br> 
+          Data analysis and visualization with Python
+          <br>"
 intro: 
   - excerpt: "This personal website is a portfolio of my research, side projects, and other interests."
 # feature_row:

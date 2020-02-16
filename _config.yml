@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Miguel Arbesú, PhD"
 title_separator          : "|"
-subtitle                 : "Structural biology, data analysis, and all in between"
+subtitle                 : "Structural biology, Python coding, and all in between"
 name                     : "Miguel Arbesú Andrés"
-description              : "This personal website is a portfolio of my research, side projects, and other interests"
+description              : "This site is about my research, side projects, and related interests"
 url                      : "https://miguelarbesu.github.io"
 baseurl                  : ""
 repository               : "miguelarbesu/miguelarbesu.github.io"
@@ -111,10 +111,9 @@ author:
   avatar           : "/assets/images/arbesu_avatar.jpg"
   bio              : "A chemist working on structural biology. 
                       I enjoy intrinsically disordered proteins, 
-                      NMR and Python.<br>
-                      Also a karateka."
+                      Nuclear Magnetic Resonance, and Python.<br>
+                      I love Karate too."
   location         : "Berlin, Germany"
-  # email            : miguelarbesu@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -278,6 +277,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      

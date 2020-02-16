@@ -2,8 +2,9 @@
 title: "License & Privacy policy"
 date: 2020-02-16 12:00:00 +0100
 permalink: /license-privacy/
-layout: posts
+layout: single
 author_profile: true
+classes: wide
 ---
 
 ## License
@@ -15,7 +16,6 @@ The [Minimal Mistakes Jekyll theme](https://mmistakes.github.io) used here is un
 
 ## Privacy policy
 
-I use [Google Analytics](https://analytics.google.com) in this site to analyze
-how users engage. It uses cookies to generate anonymized reports.
+I use [Google Analytics](https://analytics.google.com) to analyze how users engage with this site. It uses cookies to generate anonymized reports.
 
 You can find detailed information on which data is collected and how is it processed and used at [Google Privacy Policy](https://policies.google.com/privacy).

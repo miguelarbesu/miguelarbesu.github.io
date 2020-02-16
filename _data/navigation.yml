@@ -2,8 +2,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
   - title: "Blog"
-    url: /blog-year-archive/
+    url: /year-archive/
   - title: "License & Privacy"
     url: /license-privacy/
   # - title: "Sitemap"
