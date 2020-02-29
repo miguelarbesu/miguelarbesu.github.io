@@ -14,10 +14,12 @@ The contents of this site (i.e. blog posts, pictures, etc.) are subject to the
 
 The [Minimal Mistakes Jekyll theme](https://mmistakes.github.io) used here is under the [MIT license](https://mmistakes.github.io/minimal-mistakes/docs/license/).
 
-This site also uses [Font Awesome](https://fontawesome.com) and [Academicons](https://jpswalsh.github.io/academicons/), both distributed under the terms of the SIL OFL 1.1 and MIT License.
+This site uses [Font Awesome](https://fontawesome.com) and [Academicons](https://jpswalsh.github.io/academicons/), both distributed under the terms of the SIL OFL 1.1 and MIT License.
 
 ## Privacy policy
 
 I use [Google Analytics](https://analytics.google.com) to analyze how users engage with this site. It uses cookies to generate anonymized reports.
 
 You can find detailed information on which data is collected and how is it processed and used at [Google Privacy Policy](https://policies.google.com/privacy).
+
+The blog comment system is handled with [Disqus](https://disqus.com/). It requires voluntary registration. You can see the collected data and usage at [Disqus Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy).
