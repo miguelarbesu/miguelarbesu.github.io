@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Miguel Arbesú Andrés"
   avatar           : "/assets/images/arbesu_avatar.jpg"
-  bio              : "A chemist working on structural biology. 
+  bio              : "A chemist working on structural biology at FMP-Berlin.<br> 
                       I enjoy Intrinsically Disordered Proteins, 
                       Nuclear Magnetic Resonance, and Python.<br>
                       I love Karate, too."
@@ -128,10 +128,10 @@ author:
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=es"
     - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
+      icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Miguel_Arbesu"
     - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
+      icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0001-5444-1969"
 
 # Site Footer

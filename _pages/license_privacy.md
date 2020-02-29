@@ -7,12 +7,14 @@ author_profile: true
 classes: wide
 ---
 
-## License
+## Licenses
 
 The contents of this site (i.e. blog posts, pictures, etc.) are subject to the
 [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode), unless otherwise stated.
 
 The [Minimal Mistakes Jekyll theme](https://mmistakes.github.io) used here is under the [MIT license](https://mmistakes.github.io/minimal-mistakes/docs/license/).
+
+This site also uses [Font Awesome](https://fontawesome.com) and [Academicons](https://jpswalsh.github.io/academicons/), both distributed under the terms of the SIL OFL 1.1 and MIT License.
 
 ## Privacy policy
 
