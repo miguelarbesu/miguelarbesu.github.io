@@ -22,4 +22,4 @@ I use [Google Analytics](https://analytics.google.com) to analyze how users enga
 
 You can find detailed information on which data is collected and how is it processed and used at [Google Privacy Policy](https://policies.google.com/privacy).
 
-The blog comment system is handled with [Disqus](https://disqus.com/). It requires voluntary registration. You can see the collected data and usage at [Disqus Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy).
+The blog comment system is handled with [Disqus](https://disqus.com/). You can see the collected data and usage at [Disqus Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy).
