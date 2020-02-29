@@ -19,7 +19,7 @@ excerpt: "<br>
           Data analysis and visualization with Python
           <br>"
 intro: 
-  - excerpt: "This personal website is a portfolio of my research, side projects, and other interests."
+  - excerpt: "This personal website is a portfolio of my research, side projects, and other interests. All opinions expressed here are my own."
 # feature_row:
 #   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 #     alt: "placeholder image 1"

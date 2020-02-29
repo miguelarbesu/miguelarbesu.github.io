@@ -19,7 +19,7 @@ I studied a B.Sc.[^1] in Chemistry at the University of Oviedo in my home region
 
 I got in touch with structural biology during an Erasmus stay at the University of Florence (Italy). I had the opportunity to spend a few months at the Center of Magnetic Resonance (*CERM*), where I learned the basics from protein expression and purification to **Nuclear Magnetic Resonance (NMR)**. I also heard about **Intrinsically Disordered Proteins (IDPs)** for the first time, which became my main area of interest.
 
-During my stay in Florence, I met who would later be my PhD supervisor at the University of Barcelona, [Prof. Miquel Pons](http://bionmr.ub.edu/index.php). He offered me the opportunity to do a Master there and then a PhD. 
+During my stay in Florence, I met who would later be my PhD supervisor at the University of Barcelona, [Prof. Miquel Pons](http://bionmr.ub.edu/index.php). He offered me the opportunity to do a Master there and then a PhD.
 
 [^1]: The former 5-year plan (*Licenciatura*) is now equivalent to a B.Sc. + M.Sc.
 
