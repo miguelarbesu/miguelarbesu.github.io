@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : miguelarbesu-github-io.disqus.com
+    shortname            : "miguelarbesu-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -127,12 +127,12 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=es"
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Miguel_Arbesu"
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0001-5444-1969"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Miguel_Arbesu"
 
 # Site Footer
 footer:
