@@ -18,8 +18,6 @@ This site uses [Font Awesome](https://fontawesome.com) and [Academicons](https:/
 
 ## Privacy policy
 
-I use [Google Analytics](https://analytics.google.com) to analyze how users engage with this site. It uses cookies to generate anonymized reports.
-
-You can find detailed information on which data is collected and how is it processed and used at [Google Privacy Policy](https://policies.google.com/privacy).
+I use [Google Analytics](https://analytics.google.com) to analyze how users engage with this site. It uses cookies to generate anonymized reports. You can find detailed information on which data is collected and how is it processed and used at [Google Privacy Policy](https://policies.google.com/privacy).
 
 The blog comment system is handled with [Disqus](https://disqus.com/). You can see the collected data and usage at [Disqus Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy).

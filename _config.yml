@@ -124,15 +124,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/miguelarbesu"
-<<<<<<< HEAD
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Miguel_Arbesu"
-=======
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=es"
->>>>>>> cfe05e4... Fix Disqus short name
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-5444-1969"
