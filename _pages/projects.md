@@ -2,7 +2,8 @@
 title: "Projects"
 date: 2020-02-29 13:30:00 +0100
 permalink: /projects/
-layout: single
+layout: collection
+collection: projects
 author_profile: true
 header:
   overlay_color: "#000"
@@ -11,4 +12,4 @@ header:
 toc: True
 ---
 
-This section contains information about projects or ideas I develop on the side, some interescting or closely paralel to my research, some more tangential.
+This section contains information about projects or ideas I develop on the side, some intersecting or closely paralel to my research, some more tangential.
