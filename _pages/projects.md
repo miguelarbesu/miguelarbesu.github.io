@@ -4,6 +4,7 @@ date: 2020-02-29 13:30:00 +0100
 permalink: /projects/
 layout: collection
 collection: projects
+entries_layout: grid
 author_profile: true
 header:
   overlay_color: "#000"

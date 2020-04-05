@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "nmr_bmrb-chemical-shifts"
-date: 2020-03-30 21:15:00 +0100
+title: "Interactive reference protein Chemical Shifts"
+date: 2020-04-05 21:15:00 +0100
 categories: nmr
 permalink: /nmr_bmrb-chemical-shifts/
 ---
 
+Interactive plots for <sup>1</sup>H, <sup>13</sup>C, and <sup>15</sup>N reference protein Chemical Shifts from the BMRB database.
