@@ -12,4 +12,4 @@ header:
 toc: True
 ---
 
-This section contains information about projects or ideas I develop on the side, some intersecting or closely paralel to my research, some more tangential.
+This section contains information about projects or ideas I develop on the side, some intersecting or closely parallel to my research, some more tangential.
