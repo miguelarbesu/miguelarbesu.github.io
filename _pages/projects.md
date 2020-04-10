@@ -3,9 +3,9 @@ title: "Projects"
 date: 2020-04-10 13:30:00 +0100
 permalink: /projects/
 layout: collection
-author_profile: True
 collection: projects
 entries_layout: grid
+author_profile: True
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
