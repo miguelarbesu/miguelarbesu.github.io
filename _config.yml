@@ -263,10 +263,10 @@ tag_archive:
 collections:
   projects:
     output: true
-    permalink: /projects/:title
+    permalink: /:collection/:title
   research:
     output: true
-    #permalink: /research/:title
+    permalink: /:collection/:year/:title
 
 
 
