@@ -3,7 +3,6 @@ title: "License & Privacy policy"
 date: 2020-02-16 12:00:00 +0100
 permalink: /license-privacy/
 layout: single
-author_profile: true
 classes: wide
 ---
 
