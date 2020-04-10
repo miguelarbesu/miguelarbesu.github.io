@@ -7,7 +7,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "License & Privacy"
     url: /license-privacy/
   # - title: "Sitemap"

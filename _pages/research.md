@@ -1,8 +1,9 @@
 ---
 title: "Research"
-date: 2020-02-29 12:30:00 +0100
+date: 2020-04-10 12:30:00 +0100
 permalink: /research/
-layout: single
+layout: posts
+collection: research
 author_profile: true
 header:
   overlay_color: "#000"

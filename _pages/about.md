@@ -32,13 +32,13 @@ It was also during that period that I learned about **Intrinsically Disordered P
 
 Not less important, I met my now wife Sara during that *Erasmus* stay. She had transferred from Spain to Florence after having enjoyed a *Leonardo* grant there. I like to think that our relationship is a success for the European exchange initiatives and I strongly support such policies.
 
-At the end of my time in Florence I met who would later be my PhD supervisor at the University of Barcelona, [Prof. Miquel Pons](https://bionmr.ub.edu). So, I moved to Barcelona in 2012 and did my MSc[^1] and then PhD studying the  the human proto-oncogene c-Src.
+At the end of my time in Florence I met who would later be my PhD supervisor at the University of Barcelona, [Prof. Miquel Pons](https://bionmr.ub.edu). So, I moved to there in 2012 and did my MSc[^1] and then PhD studying the  the human proto-oncogene c-Src.
 
 The thesis aimed to the characterization of a biologically important intrinsically disordered protein domain using mainly solution NMR. I was lucky to have a challenging project and an inspiring mentor, and our work allowed us to propose a general framework for the whole Src Family Kinases.
 
-In the last year of my PhD, I spent three months with the group of [Prof. Hartmut Oschkinat](https://en.wikipedia.org/wiki/Hartmut_Oschkinat), at the **[Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP)](https://www.leibniz-fmp.de/home.html)**. This gave me the opportunity to learn some solid state NMR and apply it to our intrinsically disordered system.
+In the last year of my PhD, I visited the group of [Prof. Hartmut Oschkinat](https://en.wikipedia.org/wiki/Hartmut_Oschkinat), at the **[Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP)](https://www.leibniz-fmp.de/home.html)**. This gave me the opportunity to learn some solid state NMR and apply it to our intrinsically disordered system.
 
-After defending my thesis in 2018, I moved to Berlin to join the Oschkinat group at the FMP as a postdoctoral researcher, where I continue to study disordered systems (but not only), now combining solution and solid state NMR.
+After defending my thesis in 2018, I moved to Berlin to join the Oschkinat lab at the FMP as a postdoctoral researcher, where I continue to study disordered systems (but not only), now combining solution and solid state NMR.
 
 [^1]: The adaptation of the former 5-year study plans to the [Bologna process](https://en.wikipedia.org/wiki/Bologna_Process) caught me in the middle. The equivalency of the *Licenciatura* title to BSc + MSc was only recognized after I had done a MSc to access the PhD program.
 
@@ -76,13 +76,13 @@ As the complexity of my workflows evolved, I then started writing proper Python 
 Handling NMR data has given me a strong training on the specific software for acquisition and processing (`TopSpin`, `NmrPipe`) and analysis (`CcpNmr`, `Sparky`). Using *Non Uniform Sampling* made me learn more shell scripting and about the common NMR data formats, which led me to write automated workflows for processing and analysis.
 
 Most recently, I am interested in using machine learning libraries to analyze NMR data (e.g. `scikit-learn`). Overlapping with this and thanks to
-my recent collaboration with microscopists, I also explore how to apply image analysis tools as `scikit-image` to NMR, and use 3D viewers like `napari` for multidimensional NMR experiments.
+my recent collaboration with microscopists, I also explore how to apply image analysis tools as `scikit-image` to NMR.
 
-In the context of data visualization, I have started using `bokeh` and `voila`, to make more efficient representations of my processed data by adding interactivity or making dashboards to share with collaborators.
+In the context of data visualization, I have started using `bokeh` and `voila`, to represent my processed data more efficiently by adding interactivity or making dashboards to share with collaborators.
 
 My current workflow thus consists both on **bridging existing software with Python and Bash scripts, and developing new tools** for data analysis and visualization.
 
-Finally, have also worked with other kinds of experimental data such as ITC titration curves or SAXS diffraction data in the context of integrative structural studies. I have also written pipelines to analyze public databases of protein structures and sequences ([e.g. the Protein Data Bank - PDB](https://www.rcsb.org/), or [Uniprot](https://www.uniprot.org/)) for genome-wide analysis using `make`/ `Snakemake`.
+Finally, have also worked with other kinds of experimental data such as ITC titration curves or SAXS diffraction data in the context of integrative structural studies. I have also written pipelines to analyze public databases of protein structures and sequences ([e.g. the Protein Data Bank - PDB](https://www.rcsb.org/), or [Uniprot](https://www.uniprot.org/)) for genome-wide analysis, using `make`/ `Snakemake` too.
 
 ## Engagement with the local scientific community
 
@@ -100,6 +100,6 @@ I am also a member of the [International Organization of Sport and Traditional K
 
 While in Barcelona, I also practiced Shito Ryu karate under Sensei Carlos Fernández for 5 years.
 
-Now in Berlin, I train with the Uechi Ryu Okikukai group located in Panketal led by sensei Holger Massek, who kindly accepted me as a Kenyukai guest.
+Now in Berlin, I train with the Uechi Ryu Okikukai group located in Panketal, which kindly accepted me as a Kenyukai guest.
 
 ---
