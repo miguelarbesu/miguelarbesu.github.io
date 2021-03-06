@@ -6,9 +6,7 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Blog"
+    url: /blog/
   - title: "License & Privacy"
     url: /license-privacy/
-  # - title: "Sitemap"
-  #   url: /sitemap/
