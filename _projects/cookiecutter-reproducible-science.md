@@ -7,7 +7,9 @@ categories:
     - python
     - best practices
     - data science
-permalink: /cookiecutter-reproducible-science//
+permalink: /cookiecutter-reproducible-science/
+header:
+    teaser: assets/images/FUS-droplets_500x300.png
 ---
 
 A cookiecutter template for Python-based analysis projects.
