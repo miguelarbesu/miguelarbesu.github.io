@@ -9,7 +9,9 @@ categories:
     - data science
 permalink: /cookiecutter-reproducible-science/
 header:
-    teaser: assets/images/FUS-droplets_500x300.png
+    teaser: assets/images/cookiecutter.jpg
 ---
 
 A cookiecutter template for Python-based analysis projects.
+
+*<span>Teaser image by <a href="https://unsplash.com/@nevenkrcmarek?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Neven Krcmarek</a> on <a href="https://unsplash.com/s/photos/cookie-cutter?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
