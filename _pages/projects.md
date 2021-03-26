@@ -6,10 +6,6 @@ layout: collection
 collection: projects
 entries_layout: grid
 author_profile: false
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/FUS-droplets_full.jpg
 ---
 
 This section contains information about projects or ideas I develop on the side, some intersecting or closely parallel to my research, some more tangential.

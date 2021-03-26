@@ -26,6 +26,9 @@ baseurl                  : ""
 repository               : "miguelarbesu/miguelarbesu.github.io"
 teaser                   : "/assets/images/FUS-droplets_500x300.png"
 logo                     : "/assets/icons/methane.png"
+overlay_image: assets/images/FUS-droplets_full.jpg
+overlay_color: "#ffffff"
+overlay_filter: "0.5"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -286,10 +289,6 @@ defaults:
       type: pages
     values:
       layout: single
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: assets/images/FUS-droplets_full.jpg
   # _posts
   - scope:
       path: ""
@@ -297,14 +296,11 @@ defaults:
     values:
       layout: single
       author_profile: false
+      toc: True
       read_time: true
       comments: true
       share: true
       related: true
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: assets/images/FUS-droplets_full.jpg
   # _projects
   - scope:
       path: ""
@@ -314,11 +310,6 @@ defaults:
       author_profile: false
       comments: true
       share: true
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: assets/images/FUS-droplets_full.jpg
-        teaser: assets/images/FUS-droplets_500x300.png
     # _research
   - scope:
       path: ""
@@ -326,9 +317,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comments: true
-      share: true
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: assets/images/FUS-droplets_full.jpg
+      comments: false
+      share: false
+

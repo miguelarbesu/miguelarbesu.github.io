@@ -4,12 +4,9 @@ layout: splash
 permalink: /
 date: 2020-02-06T12:00:00-04:00
 header:
-  overlay_color: "#000"
+  overlay_color: "#ffffff"
   overlay_filter: "0.5"
   overlay_image: assets/images/FUS-droplets_full.jpg
-  # actions:
-  #   - label: "Download"
-  #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Human protein FUS forming liquid droplets"
 excerpt: "<br>
           Structural biology

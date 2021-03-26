@@ -5,10 +5,6 @@ permalink: /research/
 layout: single
 author_profile: true
 toc: True
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/FUS-droplets_full.jpg
 ---
 
 This is a summary of all the publications I have co-authored.
