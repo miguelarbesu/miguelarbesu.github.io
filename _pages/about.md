@@ -1,13 +1,9 @@
 ---
 title: "About me"
-date: 2020-03-29 12:00:00 +0100
+date: 2021-03-26 12:00:00 +0100
 permalink: /about/
 layout: single
 author_profile: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/FUS-droplets_full.jpg
 toc: True
 gallery:
   - url: /assets/images/karate_arenasdojo.jpg
@@ -22,70 +18,91 @@ gallery:
 
 ## Bio
 
-My name is Miguel and I am a chemist by training, evolved into a structural biologist with a strong interest in data science.
+My name is Miguel. I am a chemist by training, evolved into a structural biologist
+interested in data science.
 
-I studied a BSc & MSc in Chemistry at the University of Oviedo in my home region of Asturias, in northern Spain. I majored in Organic Chemistry, but I was always most interested in the biological side. I had the opportunity to spend some months at the *Center of Magnetic Resonance (CERM)*, where I learned the basics of protein expression and purification, and **Nuclear Magnetic Resonance (NMR)**. I also learned there about **Intrinsically Disordered Proteins (IDPs)** for the first time, which quickly became my main area of interest.
-
-At the end of my time in Florence I met who would later be my PhD supervisor at the **Biomolecular NMR group at the University of Barcelona, [Prof. Miquel Pons](https://bionmr.ub.edu)**. So, I moved there in 2012 and did my MSc[^1] and then PhD studying the human proto-oncogene c-Src. My thesis aimed at the characterization of a biologically relevant intrinsically disordered protein domain using mainly solution NMR. I was lucky to have a challenging project and an inspiring mentor, and our work finally allowed us to propose a general framework for the disordered domains of the whole Src Family Kinases.
-
-In the last year of my PhD, I visited the group of [Prof. Hartmut Oschkinat](https://en.wikipedia.org/wiki/Hartmut_Oschkinat), at the **[Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP)](https://www.leibniz-fmp.de/home.html) in Berlin**. After defending my thesis in 2018, I joined Oschkinat lab as a postdoctoral researcher, where I continue to study disordered systems (but not only), now combining solution and solid state NMR.
-
-[^1]: I was caught by the messy transition to the Bologna Plan, hence my "double M.Sc.".
-
-## Curriculum vitae & publications
-
-You can see my academic CV [here](http://miguelarbesu.github.io/markdown-cv).
-
-Please visit the [Research section](/research) for a detailed list of publications I have authored or collaborated on.
-
-Under [Projects](/projects), you can see other works parallel to my research.
+I work as a postdoctoral scientist at the **[Leibniz-Forschungsinstitut für Molekulare
+Pharmakologie (FMP)](https://www.leibniz-fmp.de/home.html) in Berlin**. I apply solid
+state **Nuclear Magnetic Resonance (NMR)** and other biophysical methods to understand
+how proteins interact with each other -- or with themselves. In particular, I am
+interested in [**Intrinsically Disordered
+Proteins**](https://en.wikipedia.org/wiki/Intrinsically_disordered_proteins).
 
 ## Skills
 
 ### Experimental
 
-Despite my degree in Organic Chemistry, I am unable to run a synthesis more
-complex than that of salicylic acid. I am instead familiar with the
-basics of **molecular biology** for cloning, expression and purification of proteins in bacteria. My experience includes obtention of **complex samples** such as short-lived, post-translationally modified proteins. Although my current position does not involve protein production, I still do enjoy significant wet lab work for sample preparation.
+Despite my degree in Organic Chemistry I am terrible at synthesis, so you will not find
+[*Breaking bad*](https://en.wikipedia.org/wiki/Breaking_Bad) kind of Science here.
+Instead, I am familiar with the basics of **molecular biology** for cloning, expression
+and purification of isotopically labeled proteins in bacteria. So, I am used to handling
+tiny amounts of sensitive (and often expensive) materials.
 
-Regarding biophysical techniques, my main are of expertise is **NMR**, both in liquid and solid states. During my PhD I made use of *fast pulsing* solution NMR methods and *Non Uniform Sampling (NUS)*, which I continue to apply for *time resolved NMR* experiments. *Paramagnetic Relaxation Enhancement (PRE)* and *Chemical Shift Perturbation (CSP)* were the tools I used most extensively.
+My main area of experimental expertise is **NMR**, both in liquid and solid states. In
+solution NMR, we apply tailored sequences of radio-frequency pulses to samples under
+very strong magnetic fields. In solid state NMR, we do the same while our samples rotate
+many tens of thousands of times per second (kHz) -- we call this Magic Angle Spinning.
+In some cases we even do all this at cryogenic temperatures while simultaneously
+shooting microwaves at the sample (this is called *Dynamic Nuclear Polarization*).
 
-In the solid state, I have applied several *Magic Angle Spinning (MAS) NMR* methodologies to a variety of systems: <sup>13</sup>C-detection, <sup>1</sup>H-detection at very high MAS (≥ 100 KHz), and Dynamic Nuclear Polarization (DNP). Not an expert in any of those techniques, I am proficient to use them to answer relevant questions about the protein of study — or ask the right person how to do it!
+In practice this all means dealing with big magnets with complex electronics,
+pneumatic systems, cryogen liquids, programming... An endless source of fun and
+technical problems!
 
-Besides NMR, I have used a variety of biophysical techniques at a shallower level, such *Isothermal Titration Calorimetry (ITC)* or *Small Angle X-ray Scattering (SAXS)*.
+![800 MHz](/assets/images/fmp800.jpg)
+*A 800 MHz (18.8 Tesla) spectrometer at FMP-Berlin*
+
+Finally, I often **integrate other biophysical and biochemical techniques** which I
+understand at a shallower level, such as *Small Angle X-ray Scattering (SAXS)*, *Light
+Microscopy*, *Mass Spectrometry*, etc.
 
 ### Analytical
 
-As a GNU/Linux aficionado, I had learned basic shell scripting before I started my PhD. Then, I started learning **Python** in order to consistently process increasing amounts of heterogeneous data from multiple experimental sources.
+I am a GNU/Linux user since my early degree years. My current distribution of choice
+both for professional and personal use is [Manjaro KDE](https://manjaro.org/).
 
-Beginning with NMR peak lists, I used mostly `numpy`, `pandas`, and `matplotlib` for parsing, processing and plotting derived NMR parameters. Because of the exploratory and reporting nature of the work, I found `Jupyter` Python notebooks the perfect tool for *literate coding* in the context of structural biology research.
+During my PhD I started learning **Python** in order to consistently process increasing
+amounts of data from multiple experimental sources. Because of the exploratory and
+reporting nature of the daily work in structural biology research, I find *literate
+coding* with `Jupyter` **notebooks** a powerful approach. My base stack is `pandas`,
+`numpy`, `scikit-learn` and `scipy` for parsing and processing data, and `matplotlib`,
+`seaborn` and `bokeh` for plotting. 
 
-As my workflows became more complex, I started writing proper Python scripts and modules and adopting common good practices (version control with `git`, unit testing, continuous integration, etc.). I learned a lot from my colleague [João M.C. Teixeira](https://github.com/joaomcteixeira), a postdoc in the group then developing [FarSeer-NMR](https://github.com/Farseer-NMR), a full-fledged suite for the analysis of NMR peak lists.
+As my workflows became complex, I started writing proper Python scripts and modules and
+adopting **best practices in software development** (version control, unit testing,
+continuous integration, documenting, linting, etc.). I think this is a necessary step in making my research more reproducible and transparent.
 
-Handling NMR data has given me a strong training on the specific software for acquisition and processing (`TopSpin`, `NmrPipe`, `qMDD`) and analysis (`CcpNmr`, `Sparky`). Working with disparate kinds of experimental data in the context of integrative structural studies has also enabled me to write shell/Python workflows for processing and analysis.  
-I have also written pipelines to analyze public databases of protein structures and sequences ([e.g. the Protein Data Bank - PDB](https://www.rcsb.org/), or [Uniprot](https://www.uniprot.org/)) for genome-wide analysis, using `make`/ `Snakemake` too.
+Besides the analysis of my own experimental work, I have also written pipelines to
+analyze databases of protein structures and sequences ([e.g. the Protein Data Bank -
+PDB](https://www.rcsb.org/), or [Uniprot](https://www.uniprot.org/)) for genome-wide
+analysis (but I would not dare calling myself a bioinformatician!).
 
-Most recently, I am interested in using machine learning libraries to analyze experimental data (e.g. `scikit-learn`). Thanks to interacting with microscopists, I also explore how to apply image analysis tools as `scikit-image` to NMR.
+Data visualization is an aspect I particularly enjoy in my work. I like finding new ways
+to distill and display **insightful knowledge from complex data sources**. 
 
-In the context of data visualization, I have started using `bokeh` and `voila`, to represent my processed data more efficiently by adding interactivity or making dashboards.
+## Publications
 
-My current workflow thus consists both on **bridging existing software with Python and Bash scripts, and developing new tools** for data analysis and visualization.
-
+You can see my academic CV [here](http://miguelarbesu.github.io/markdown-cv). Please
+visit the [Research section](/research) for a detailed list of publications I have
+authored or collaborated on.
 
 ## Engagement with the local scientific community
 
-After my arrival to Berlin in spring 2018, I enrolled the [FMP+MDC PostDoc Association](https://www.leibniz-fmp.de/education/fmp-postdoc-association.html). This group of volunteers from the FMP and the neighboring [Max Delbruck Center for Molecular Medicine](https://www.mdc-berlin.de/) at the Berlin-Buch Campus promotes networking between postdocs of the two institutes, by holding monthly meetings or lunch seminars about research and career development among other activities.
-
-Additionally, the FMP+MDC PDA yearly organizes the **[PostDoc Day](https://postdoc-day.mdc-berlin.de/)**, a conference for postdocs in life sciences in the Berlin area. With a steady participation of > 100 scientists from all institutes in the city, we bring a top-tier keynote speaker to tell us about his/her career path and investigations, and select contributions from the participants as well.
+I am part of the [FMP+MDC PostDoc
+Association](https://www.leibniz-fmp.de/education/fmp-postdoc-association.html). This
+group of volunteers from the FMP and the neighboring [Max Delbruck Center for Molecular
+Medicine](https://www.mdc-berlin.de/) at the Berlin-Buch Campus promotes networking
+between postdocs, organizing meetings and seminars about research and career
+development. We also hold the **[PostDoc Day](https://postdoc-day.mdc-berlin.de/)**, a
+conference for early stage scientists in life sciences in the Berlin area. 
 
 ## Karate
 
-I practice Karate since I was 10 years old. I started practicing Shotokan style in my hometown, and then switched to Uechi Ryu karate after my Sensei Ángel Arenas. Under his supervision and with the approval of Hanshi Kyohide Shinjo, head of Uechi Ryu Kenyukai in Okinawa, I currently hold a **3rd dan black belt**.
+I practice Karate since I was 10 years old. I hold a **3rd dan black belt** and belong
+to [Uechi Ryu](https://en.wikipedia.org/wiki/Uechi-Ry%C5%AB) Kenyukai Karate
+association. I practiced Shotokan in my early years and Shito Ryu karate during my PhD,
+and I was also an instructor in Uechi Ryu during that time.
 
 {% include gallery caption="At the Uechi Ryu Kenyukai Spain & Okinawa central dojos" %}
-
-I am also a member of the [International Organization of Sport and Traditional Karate (IOSTK)](http://www.iostk.com/) and I was an instructor for 2 years during my time in Barcelona, teaching Uechi Ryu. While in Barcelona, I also practiced Shito Ryu karate for 5 years.
-
-Now in Berlin, I train with the local Uechi Ryu Okikukai group, which kindly accepted me as a Kenyukai guest.
 
 ---
