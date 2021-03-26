@@ -7,6 +7,8 @@ tags:
   - Post Formats
   - readability
   - standard
+image:
+  feature: /assets/images/FUS-droplets_500x300.png
 ---
 ```
 

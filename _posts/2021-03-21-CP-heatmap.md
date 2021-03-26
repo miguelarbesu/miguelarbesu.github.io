@@ -9,6 +9,8 @@ tags:
   - Pandas
   - Topspin
 excerpt: "Visualizing experimental Hartmann-Hahn conditions in MAS NMR"
+image:
+  feature: /assets/images/CP_heatmap.png
 ---
 
 ## What is Cross Polarization & why you want to do it?
