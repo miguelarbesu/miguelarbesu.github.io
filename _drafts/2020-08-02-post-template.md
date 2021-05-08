@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Standard post template"
 categories:
@@ -8,7 +7,9 @@ tags:
   - readability
   - standard
 image:
-  feature: /assets/images/FUS-droplets_500x300.png
+  thumb: /assets/images/methane_thumb.png # 200x200
+  feature: /assets/images/FUS-droplets_feature.jpg # 1024x256
+  credit: Miguel Arbesú
+  creditlink: miguelarbesu.github.io
 ---
-```
 
