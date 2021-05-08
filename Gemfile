@@ -1,4 +1,7 @@
 source "https://rubygems.org"
+# Fix broken Jekyll - Ruby 3.0 not supported, roll back to 2.7
+# See https://talk.jekyllrb.com/t/error-no-implicit-conversion-of-hash-into-integer/5890
+ruby "= 2.7.3"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
